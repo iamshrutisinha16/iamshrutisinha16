@@ -41,14 +41,19 @@ I am a passionate Full Stack Developer who enjoys building scalable, user-friend
 
 ---
 
-### Live Demo Add karo
-
-Agar projects deploy nahi hain, to deploy karo:
-
+### Live Demo 
 Frontend → Vercel
 Backend → Render/Railway
 Database → MongoDB Atlas
 ## 🚀 Featured Projects
+
+### Some live projects
+https://collegemilan.com/  | https://milaneducation.vercel.app/ | https://milaneducation.vercel.app/admin
+https://admireholidays.com/
+https://kismatkiproperty.com/
+https://www.designgallerystore.in/
+https://snackverse-ecommerce.vercel.app/
+https://dolalight.com/
 
 ### 🎓 College Milan
 A full-stack MERN application that helps students find and match with colleges and universities based on their qualifications. It features secure authentication, student profile management, college matching, and an intuitive user experience..
@@ -56,14 +61,17 @@ A full-stack MERN application that helps students find and match with colleges a
 ### 💳 FASTag Recharge System
 Secure FASTag recharge platform with real-time balance updates and payment functionality.
 
+### 🛒 SnackVerse E-Commerce (Currently Working)
+A modern full-stack MERN e-commerce platform for premium healthy snacks. The application provides a seamless shopping experience with secure user authentication, product browsing, category-based filtering, shopping cart, wishlist, order management, and an intuitive responsive interface. The project is currently under active development, with features such as online payments (using payment gateway), order tracking, and inventory management being implemented.
+
 ### 💬 Live Feedback System
 Real-time feedback application built using MERN Stack and Socket.IO.
 
 ### 🗳 Polling App
 REST API-based live polling and voting application.
 
-### 🏠 Real Estate Web App
-Full-stack MERN application for managing real estate listings.
+### 🏡 Kismat Ki Property
+A full-stack real estate platform built using the MERN Stack that enables users to buy, sell, and rent residential and commercial properties. The application offers secure authentication, advanced property search with filters, detailed property listings, blueprint and package management, blog integration, and an intuitive responsive interface. It simplifies the property discovery process while providing a seamless experience for both property buyers and sellers.
 
 ## 🤝 Let's Connect
 
