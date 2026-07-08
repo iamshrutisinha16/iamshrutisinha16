@@ -41,6 +41,13 @@ I am a passionate Full Stack Developer who enjoys building scalable, user-friend
 
 ---
 
+### Live Demo Add karo
+
+Agar projects deploy nahi hain, to deploy karo:
+
+Frontend → Vercel
+Backend → Render/Railway
+Database → MongoDB Atlas
 ## 🚀 Featured Projects
 
 ### 🎓 College Milan
