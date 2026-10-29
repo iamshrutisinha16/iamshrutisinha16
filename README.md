@@ -51,7 +51,7 @@ Database → MongoDB Atlas
 https://collegemilan.com/  | https://milaneducation.vercel.app/ | https://milaneducation.vercel.app/admin
 https://admireholidays.com/
 https://kismatkiproperty.com/
-https://ar-meridian-careers-mern-stack-job.vercel.app/
+https://ar-job-portal.vercel.app/login
 https://snackverse-ecommerce.vercel.app/
 https://dolalight.com/
 
