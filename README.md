@@ -48,12 +48,11 @@ Database → MongoDB Atlas
 ## 🚀 Featured Projects
 
 ### Some live projects
-https://collegemilan.com/  | https://milaneducation.vercel.app/ | https://milaneducation.vercel.app/admin
-https://admireholidays.com/
-https://kismatkiproperty.com/
-https://ar-job-portal.vercel.app/login
+https://collegemilan.com/  | https://milaneducation.vercel.app/ | https://milaneducation.vercel.app/admin|
+https://admireholidays.com/|
+https://kismatkiproperty.com/|
+https://ar-job-portal.vercel.app/login|
 https://snackverse-ecommerce.vercel.app/
-https://dolalight.com/
 
 ### 🎓 College Milan
 A full-stack MERN application that helps students find and match with colleges and universities based on their qualifications. It features secure authentication, student profile management, college matching, and an intuitive user experience..
